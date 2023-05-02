@@ -1,0 +1,11 @@
+C:\Users\AMIR\Desktop\maz\maz\bin\Debug\maz.exe.config
+C:\Users\AMIR\Desktop\maz\maz\bin\Debug\maz.exe
+C:\Users\AMIR\Desktop\maz\maz\bin\Debug\maz.pdb
+C:\Users\AMIR\Desktop\maz\maz\obj\Debug\maz.csproj.AssemblyReference.cache
+C:\Users\AMIR\Desktop\maz\maz\obj\Debug\maz.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMIR\Desktop\maz\maz\obj\Debug\maz.Form1.resources
+C:\Users\AMIR\Desktop\maz\maz\obj\Debug\maz.Properties.Resources.resources
+C:\Users\AMIR\Desktop\maz\maz\obj\Debug\maz.csproj.GenerateResource.cache
+C:\Users\AMIR\Desktop\maz\maz\obj\Debug\maz.csproj.CoreCompileInputs.cache
+C:\Users\AMIR\Desktop\maz\maz\obj\Debug\maz.exe
+C:\Users\AMIR\Desktop\maz\maz\obj\Debug\maz.pdb
